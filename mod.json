@@ -9,7 +9,7 @@
 			"Path": "takyon_antigrapple.nut",
 			"RunOn": "SERVER",
 			"ServerCallback": {
-				"After": "takyon_antigrappleInit"
+				"After": "AntiGrappleInit"
 			}
 		}
 	]
